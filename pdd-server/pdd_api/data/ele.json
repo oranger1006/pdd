@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon01.png", "icontitle": "饭煲电磁炉"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon02.jpeg", "icontitle": "取暖电器"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon03.jpeg", "icontitle": "人护健康"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon04.jpeg", "icontitle": "洗衣机"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon05.jpeg", "icontitle": "冰箱空调"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon06.jpeg", "icontitle": "烟灶热水器"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon07.jpeg", "icontitle": "取暖电器"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon08.png", "icontitle": "电器"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon09.png", "icontitle": "厨房电器"},
+    {"iconurl": "http://127.0.0.1:3000/images/ele/nav_icon10.jpg", "icontitle": "查看全部"}
+  ]
+}

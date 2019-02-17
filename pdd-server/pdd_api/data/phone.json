@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon01.png", "icontitle": "音箱/音响"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon02.jpeg", "icontitle": "充电宝"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon03.jpeg", "icontitle": "手机壳"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon04.jpeg", "icontitle": "充电线器"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon05.jpeg", "icontitle": "相机"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon06.jpeg", "icontitle": "手机"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon07.jpeg", "icontitle": "耳机/耳麦"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon08.jpeg", "icontitle": "智能生活"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon09.jpeg", "icontitle": "手环/手表"},
+    {"iconurl": "http://127.0.0.1:3000/images/phone/nav_icon10.jpg", "icontitle": "查看更多"}
+  ]
+}

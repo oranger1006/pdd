@@ -1,0 +1,15 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon01.jpeg", "icontitle": "粮油速食"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon02.jpeg", "icontitle": "坚果蜜饯"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon03.png", "icontitle": "茶酒冲饮"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon04.png", "icontitle": "农活节"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon05.png", "icontitle": "休闲零食"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon06.jpeg", "icontitle": "充值中心"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon07.jpeg", "icontitle": "饼干糕点"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon08.jpeg", "icontitle": "地方馆"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon09.jpeg", "icontitle": "乳制品"},
+    {"iconurl": "http://127.0.0.1:3000/images/food/nav_icon10.jpg", "icontitle": "查看更多"}
+  ]
+}
+

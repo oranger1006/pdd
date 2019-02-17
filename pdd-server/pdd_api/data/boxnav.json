@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon01.jpeg", "icontitle": "女鞋"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon02.jpeg", "icontitle": "低帮鞋"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon03.jpeg", "icontitle": "女包"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon04.jpeg", "icontitle": "高帮鞋"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon05.jpeg", "icontitle": "男鞋"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon06.jpeg", "icontitle": "秋冬上新"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon07.png", "icontitle": "功能箱包"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon08.png", "icontitle": "男包"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon01.jpeg", "icontitle": "女款"},
+    {"iconurl": "http://127.0.0.1:3000/images/box/nav_icon10.jpg", "icontitle": "查看更多"}
+  ]
+}

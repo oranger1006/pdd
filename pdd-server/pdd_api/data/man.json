@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon01.jpeg", "icontitle": "户外装备"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon02.jpeg", "icontitle": "骑行装备"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon03.jpeg", "icontitle": "运动鞋"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon04.jpeg", "icontitle": "运动服装"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon05.jpeg", "icontitle": "健身器材"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon06.jpeg", "icontitle": "秋冬取暖"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon07.jpeg", "icontitle": "体育用品"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon08.jpeg", "icontitle": "户外鞋服"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon09.jpeg", "icontitle": "垂钓装备"},
+    {"iconurl": "http://127.0.0.1:3000/images/man/nav_icon10.jpg", "icontitle": "查看全部"}
+  ]
+}
